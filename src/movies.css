@@ -1,0 +1,19 @@
+p{
+    margin-left: 400px;
+    color:brown;
+    font-size: 35px;   
+
+}
+table{
+    background-color:burlywood;
+}
+h2{
+    margin-left: 450px;
+    margin-top: 150px;
+    color: red;
+    font-size: 50x;
+    background-color: blanchedalmond;
+    padding: 15px 15px;
+    width: 400px;
+    border-radius: 10px;
+}
